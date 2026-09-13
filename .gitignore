@@ -1,0 +1,5 @@
+bin/
+data/
+client-data/
+contracts/out/
+contracts/cache/
